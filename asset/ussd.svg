@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="159.942" height="51" viewBox="0 0 159.942 51">
+  <g id="Group_4959" data-name="Group 4959" transform="translate(-1520 -11960)">
+    <text id="USSD" transform="translate(1520 12000)" fill="#bdbdbd" font-size="42" font-family="Gilroy-ExtraBold, Gilroy" font-weight="800" letter-spacing="0.012em"><tspan x="0" y="0">USSD</tspan></text>
+    <g id="speech-bubble" transform="translate(1639.312 11966.082)">
+      <path id="Path_12706" data-name="Path 12706" d="M26.441,24.776A13.937,13.937,0,0,0,0,30.883a13.738,13.738,0,0,0,1.329,5.935L.024,43.346a1.191,1.191,0,0,0,1.4,1.4l6.609-1.307a13.692,13.692,0,0,0,2.756.964A16.285,16.285,0,0,1,26.441,24.776Z" transform="translate(0 -16.996)" fill="#bdbdbd"/>
+      <path id="Path_12707" data-name="Path 12707" d="M187.993,164.824a13.844,13.844,0,0,0,.6-1.469h-.044a13.9,13.9,0,0,0-12.5-18.336h0a13.887,13.887,0,1,0-.667,27.758,13.735,13.735,0,0,0,5.917-1.329c7.238,1.431,6.673,1.329,6.839,1.329a1.191,1.191,0,0,0,1.167-1.424Z" transform="translate(-148.692 -134.845)" fill="#bdbdbd"/>
+    </g>
+  </g>
+</svg>
